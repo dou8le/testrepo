@@ -12,10 +12,10 @@
           Bug report filed: https://github.com/AppGyver/steroids/issues/640
         -->
         <config-file target="*-Info.plist" parent="NSLocationWhenInUseUsageDescription">
-        <string>mX needs your location</string>
+        <string>So we can show you your local Here's looking at you, mX would love to know where you're at. Share the love?</string>
         </config-file>
         <config-file target="*-Info.plist" parent="NSLocationUsageDescription">
-        <string>mX needs your location</string>
+        <string>So we can show you your local Here's looking at you, mX would love to know where you're at. Share the love?</string>
         </config-file>
     </platform>
 
